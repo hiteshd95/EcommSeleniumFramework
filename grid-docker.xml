@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Ecomm" thread-count="5">
+
+    <listeners>
+        <listener class-name="utilities.AllureListener"/>
+    </listeners>
+
+    <test thread-count="5" name="Ecomm Tests in chrome">
+        <parameter name="os" value="linux"></parameter>
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="testcases.TC001_AccountRegistrationTest"/>
+            <class name="testcases.TC002_LoginTest"/>
+        </classes>
+    </test>
+
+    <test thread-count="5" name="Ecomm Tests in firefox">
+        <parameter name="os" value="linux"></parameter>
+        <parameter name="browser" value="firefox"></parameter>
+        <classes>
+            <class name="testcases.TC001_AccountRegistrationTest"/>
+            <class name="testcases.TC002_LoginTest"/>
+        </classes>
+    </test>
+
+</suite>

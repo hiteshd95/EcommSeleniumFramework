@@ -1,0 +1,54 @@
+16:12:18.954 [main] INFO  testcases.TC002_LoginTest - Clicked on login/signup button
+16:12:18.970 [main] INFO  testcases.TC002_LoginTest - Providing user login details
+16:12:23.680 [main] INFO  testcases.TC002_LoginTest - Validating if user is logged in
+16:13:01.029 [main] INFO  testcases.TC001_AccountRegistrationTest - Running on operating system: windows
+16:13:08.179 [main] INFO  testcases.TC001_AccountRegistrationTest - *******Startiing TC001_AccountRegistrationTest*******
+16:13:10.221 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on login/signup button
+16:13:10.231 [main] INFO  testcases.TC001_AccountRegistrationTest - Providing new user details
+16:13:18.795 [main] INFO  testcases.TC001_AccountRegistrationTest - Validating expected message
+16:13:19.388 [main] INFO  testcases.TC002_LoginTest - Running on operating system: windows
+16:13:24.701 [main] INFO  testcases.TC002_LoginTest - *******Startiing TC002_LoginTest*******
+16:13:25.626 [main] INFO  testcases.TC002_LoginTest - Clicked on login/signup button
+16:13:25.627 [main] INFO  testcases.TC002_LoginTest - Providing user login details
+16:13:29.269 [main] INFO  testcases.TC002_LoginTest - Validating if user is logged in
+16:13:29.706 [main] INFO  testcases.TC003_LoginDDT - Running on operating system: windows
+16:13:36.683 [main] INFO  testcases.TC003_LoginDDT - *******Starting TC003_Login Data Driven Test*******
+16:13:39.085 [main] INFO  testcases.TC003_LoginDDT - Clicked on login/signup button
+16:13:39.085 [main] INFO  testcases.TC003_LoginDDT - Providing user login details
+16:13:42.479 [main] INFO  testcases.TC003_LoginDDT - Validating if user is logged in
+16:13:44.052 [main] INFO  testcases.TC003_LoginDDT - *******Starting TC003_Login Data Driven Test*******
+16:13:45.153 [main] INFO  testcases.TC003_LoginDDT - Clicked on login/signup button
+16:13:45.153 [main] INFO  testcases.TC003_LoginDDT - Providing user login details
+16:13:46.590 [main] INFO  testcases.TC003_LoginDDT - Validating if user is logged in
+16:13:56.640 [main] INFO  testcases.TC003_LoginDDT - *******Starting TC003_Login Data Driven Test*******
+16:13:58.705 [main] INFO  testcases.TC003_LoginDDT - Clicked on login/signup button
+16:13:58.705 [main] INFO  testcases.TC003_LoginDDT - Providing user login details
+16:14:00.448 [main] INFO  testcases.TC003_LoginDDT - Validating if user is logged in
+20:44:01.742 [main] INFO  testcases.TC001_AccountRegistrationTest - Running on operating system: windows
+20:44:07.349 [main] INFO  testcases.TC001_AccountRegistrationTest - *******Startiing TC001_AccountRegistrationTest*******
+20:44:11.341 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on login/signup button
+20:44:11.343 [main] INFO  testcases.TC001_AccountRegistrationTest - Providing new user details
+20:44:17.355 [main] INFO  testcases.TC001_AccountRegistrationTest - Validating expected message
+20:44:17.958 [main] INFO  testcases.TC002_LoginTest - Running on operating system: windows
+20:44:23.276 [main] INFO  testcases.TC002_LoginTest - *******Startiing TC002_LoginTest*******
+20:44:28.372 [main] INFO  testcases.TC002_LoginTest - Clicked on login/signup button
+20:44:28.373 [main] INFO  testcases.TC002_LoginTest - Providing user login details
+20:44:37.986 [main] INFO  testcases.TC002_LoginTest - Validating if user is logged in
+20:44:40.574 [main] INFO  testcases.TC003_LoginDDT - Running on operating system: windows
+20:44:54.836 [main] INFO  testcases.TC003_LoginDDT - *******Starting TC003_Login Data Driven Test*******
+20:44:56.175 [main] INFO  testcases.TC003_LoginDDT - Clicked on login/signup button
+20:44:56.177 [main] INFO  testcases.TC003_LoginDDT - Providing user login details
+20:45:06.475 [main] INFO  testcases.TC003_LoginDDT - Validating if user is logged in
+20:45:09.303 [main] INFO  testcases.TC003_LoginDDT - *******Starting TC003_Login Data Driven Test*******
+20:45:10.861 [main] INFO  testcases.TC003_LoginDDT - Clicked on login/signup button
+20:45:10.869 [main] INFO  testcases.TC003_LoginDDT - Providing user login details
+20:45:13.910 [main] INFO  testcases.TC003_LoginDDT - Validating if user is logged in
+20:45:23.948 [main] INFO  testcases.TC003_LoginDDT - *******Starting TC003_Login Data Driven Test*******
+20:45:26.449 [main] INFO  testcases.TC003_LoginDDT - Clicked on login/signup button
+20:45:26.449 [main] INFO  testcases.TC003_LoginDDT - Providing user login details
+20:45:28.008 [main] INFO  testcases.TC003_LoginDDT - Validating if user is logged in
+20:46:43.697 [main] INFO  testcases.TC001_AccountRegistrationTest - Running on operating system: windows
+20:46:55.852 [main] INFO  testcases.TC001_AccountRegistrationTest - *******Startiing TC001_AccountRegistrationTest*******
+20:46:57.128 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on login/signup button
+20:46:57.136 [main] INFO  testcases.TC001_AccountRegistrationTest - Providing new user details
+20:47:04.816 [main] INFO  testcases.TC001_AccountRegistrationTest - Validating expected message

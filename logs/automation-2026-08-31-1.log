@@ -1,0 +1,52 @@
+23:13:46.071 [main] INFO  testcases.TC001_AccountRegistrationTest - Running on operating system: linux
+23:14:01.430 [main] INFO  testcases.TC002_LoginTest - Running on operating system: linux
+23:27:44.376 [main] INFO  testcases.TC001_AccountRegistrationTest - Running on operating system: linux
+23:27:50.644 [main] INFO  testcases.TC001_AccountRegistrationTest - *******Startiing TC001_AccountRegistrationTest*******
+23:27:55.347 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on login/signup button
+23:27:55.351 [main] INFO  testcases.TC001_AccountRegistrationTest - Providing new user details
+23:28:02.237 [main] INFO  testcases.TC001_AccountRegistrationTest - Validating expected message
+23:28:02.529 [main] INFO  testcases.TC002_LoginTest - Running on operating system: linux
+23:28:06.337 [main] INFO  testcases.TC002_LoginTest - *******Startiing TC002_LoginTest*******
+23:28:11.488 [main] INFO  testcases.TC002_LoginTest - Clicked on login/signup button
+23:28:11.489 [main] INFO  testcases.TC002_LoginTest - Providing user login details
+23:28:15.425 [main] INFO  testcases.TC002_LoginTest - Validating if user is logged in
+23:30:25.862 [main] INFO  testcases.TC001_AccountRegistrationTest - Running on operating system: linux
+23:30:31.028 [main] INFO  testcases.TC001_AccountRegistrationTest - *******Startiing TC001_AccountRegistrationTest*******
+23:30:35.609 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on login/signup button
+23:30:35.615 [main] INFO  testcases.TC001_AccountRegistrationTest - Providing new user details
+23:30:40.151 [main] INFO  testcases.TC001_AccountRegistrationTest - Validating expected message
+23:30:42.408 [main] INFO  testcases.TC002_LoginTest - Running on operating system: linux
+23:30:46.596 [main] INFO  testcases.TC002_LoginTest - *******Startiing TC002_LoginTest*******
+23:30:51.141 [main] INFO  testcases.TC002_LoginTest - Clicked on login/signup button
+23:30:51.142 [main] INFO  testcases.TC002_LoginTest - Providing user login details
+23:31:09.150 [main] INFO  testcases.TC002_LoginTest - Validating if user is logged in
+23:31:24.160 [main] INFO  testcases.TC001_AccountRegistrationTest - Running on operating system: linux
+23:31:29.815 [main] INFO  testcases.TC001_AccountRegistrationTest - *******Startiing TC001_AccountRegistrationTest*******
+23:31:31.925 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on login/signup button
+23:31:31.925 [main] INFO  testcases.TC001_AccountRegistrationTest - Providing new user details
+23:31:37.101 [main] INFO  testcases.TC001_AccountRegistrationTest - Validating expected message
+23:31:37.575 [main] INFO  testcases.TC002_LoginTest - Running on operating system: linux
+23:32:06.185 [main] INFO  testcases.TC002_LoginTest - *******Startiing TC002_LoginTest*******
+23:32:09.222 [main] INFO  testcases.TC002_LoginTest - Clicked on login/signup button
+23:32:09.223 [main] INFO  testcases.TC002_LoginTest - Providing user login details
+23:32:15.052 [main] INFO  testcases.TC002_LoginTest - Validating if user is logged in
+23:48:43.770 [main] INFO  testcases.TC001_AccountRegistrationTest - Running on operating system: linux
+23:48:49.409 [main] INFO  testcases.TC001_AccountRegistrationTest - *******Startiing TC001_AccountRegistrationTest*******
+23:48:52.001 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on login/signup button
+23:48:52.008 [main] INFO  testcases.TC001_AccountRegistrationTest - Providing new user details
+23:49:06.145 [main] INFO  testcases.TC001_AccountRegistrationTest - Validating expected message
+23:49:06.451 [main] INFO  testcases.TC002_LoginTest - Running on operating system: linux
+23:49:12.235 [main] INFO  testcases.TC002_LoginTest - *******Startiing TC002_LoginTest*******
+23:49:17.820 [main] INFO  testcases.TC002_LoginTest - Clicked on login/signup button
+23:49:17.821 [main] INFO  testcases.TC002_LoginTest - Providing user login details
+23:49:26.206 [main] INFO  testcases.TC002_LoginTest - Validating if user is logged in
+23:49:29.169 [main] INFO  testcases.TC001_AccountRegistrationTest - Running on operating system: linux
+23:50:00.441 [main] INFO  testcases.TC001_AccountRegistrationTest - *******Startiing TC001_AccountRegistrationTest*******
+23:50:04.111 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on login/signup button
+23:50:04.111 [main] INFO  testcases.TC001_AccountRegistrationTest - Providing new user details
+23:50:09.548 [main] INFO  testcases.TC001_AccountRegistrationTest - Validating expected message
+23:50:10.004 [main] INFO  testcases.TC002_LoginTest - Running on operating system: linux
+23:50:18.431 [main] INFO  testcases.TC002_LoginTest - *******Startiing TC002_LoginTest*******
+23:50:21.070 [main] INFO  testcases.TC002_LoginTest - Clicked on login/signup button
+23:50:21.071 [main] INFO  testcases.TC002_LoginTest - Providing user login details
+23:50:24.952 [main] INFO  testcases.TC002_LoginTest - Validating if user is logged in

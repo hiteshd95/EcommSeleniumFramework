@@ -1,0 +1,1 @@
+{"uuid":"aedacb5c-53b7-49c1-b70a-8760730e3222","name":"verifyLoginDDT","children":["5bb142d3-665d-426b-8282-26c1dc264500"],"befores":[{"name":"getData","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1788103499545,"stop":1788103501441}],"afters":[],"start":1788103499538,"stop":1788103501505}
