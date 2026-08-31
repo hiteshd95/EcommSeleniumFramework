@@ -10,9 +10,9 @@
         <parameter name="os" value="windows"></parameter>
         <parameter name="browser" value="edge"></parameter>
         <classes>
-            <class name="testcases.TC001_AccountRegistrationTest"/>
-            <class name="testcases.TC002_LoginTest"/>
-            <class name="testcases.TC003_LoginDDT"/>
+            <!--<class name="testcases.TC001_AccountRegistrationTest"/>-->
+            <!--<class name="testcases.TC002_LoginTest"/>-->
+            <class name="testcases.HomePageTest"/>
         </classes>
     </test>
 

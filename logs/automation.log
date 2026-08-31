@@ -24,3 +24,11 @@
 00:37:19.337 [main] INFO  testcases.TC003_LoginDDT - Clicked on login/signup button
 00:37:19.339 [main] INFO  testcases.TC003_LoginDDT - Providing user login details
 00:37:21.587 [main] INFO  testcases.TC003_LoginDDT - Validating if user is logged in
+00:39:52.950 [main] INFO  testcases.HomePageTest - Running on operating system: windows
+00:42:18.107 [main] INFO  testcases.HomePageTest - Running on operating system: windows
+00:43:42.617 [main] INFO  testcases.HomePageTest - Running on operating system: windows
+00:45:28.618 [main] INFO  testcases.HomePageTest - Running on operating system: windows
+00:48:09.410 [main] INFO  testcases.HomePageTest - Running on operating system: windows
+00:51:52.693 [main] INFO  testcases.HomePageTest - Running on operating system: windows
+00:53:34.065 [main] INFO  testcases.HomePageTest - Running on operating system: windows
+00:54:52.482 [main] INFO  testcases.HomePageTest - Running on operating system: windows
